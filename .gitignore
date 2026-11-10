@@ -1,0 +1,17 @@
+# Local credentials and Vercel CLI state must never be published.
+.vercel/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local dependencies, caches and editor state.
+node_modules/
+.astro/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

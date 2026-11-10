@@ -1,0 +1,585 @@
+{
+  "siteUrl": "https://gorpils-client-preview-20261105.vercel.app/",
+  "deploymentId": "dpl_68LGJLcqHVw4LAnKUwyR9QVMDwne",
+  "projectId": "prj_z1gLlyAXMbH6FIiNRjeCNK6DLQKf",
+  "teamId": "team_ydXh1UPW3asUNtmLPNFNBelt",
+  "exportKind": "prebuilt-static-site-not-original-astro-source",
+  "files": [
+    {
+      "path": "src/.vercel/output/config.json",
+      "uid": "1a0afe5ac59bdeb3d5dd341bdb55548e97da4f3c",
+      "mode": 33206,
+      "bytes": 1621,
+      "sha1": "1a0afe5ac59bdeb3d5dd341bdb55548e97da4f3c",
+      "sha256": "dda3372186783c6c176b6879617cd7b249ff71065c0cb9ccb861a0e6b1e1c796"
+    },
+    {
+      "path": "src/.vercel/output/static/404.html",
+      "uid": "aad63f108395ef2970f8e962bf0f959e03e55701",
+      "mode": 33206,
+      "bytes": 10442,
+      "sha1": "aad63f108395ef2970f8e962bf0f959e03e55701",
+      "sha256": "bb5fc97ffa7526efaf567fcc47d6b68e126312c39ed75d11e283ac3e3e195a39"
+    },
+    {
+      "path": "src/.vercel/output/static/_astro/BaseLayout.Dz5jpWnt.css",
+      "uid": "48a6f609cd23cacb145912b5578c5226ac8c29f0",
+      "mode": 33206,
+      "bytes": 22881,
+      "sha1": "48a6f609cd23cacb145912b5578c5226ac8c29f0",
+      "sha256": "45a73af16eebbf4f014209ae4fa45f8516763b3ed09aa2d1ac60e0a93b981896"
+    },
+    {
+      "path": "src/.vercel/output/static/_astro/manrope-cyrillic-wght-normal.Dvxsihut.woff2",
+      "uid": "d8fc94bf7a39043a7759bd564a7e16b3ea080736",
+      "mode": 33206,
+      "bytes": 14500,
+      "sha1": "d8fc94bf7a39043a7759bd564a7e16b3ea080736",
+      "sha256": "c268b459a9329e59fecf39a17618efd44c71735532048d60b12aab76a8c14914"
+    },
+    {
+      "path": "src/.vercel/output/static/_astro/manrope-latin-wght-normal.DHIcAJRg.woff2",
+      "uid": "b42951014c5eca12749d87a4706caf22dc4fe081",
+      "mode": 33206,
+      "bytes": 24836,
+      "sha1": "b42951014c5eca12749d87a4706caf22dc4fe081",
+      "sha256": "a30ddcd349703aff7464c34bef3fffdff405ee50c113440d7c8693c02d210972"
+    },
+    {
+      "path": "src/.vercel/output/static/documents/gorpils-manufacturer-archival.doc",
+      "uid": "d269126d23be9c606ea15d023a78a287024553cf",
+      "mode": 33206,
+      "bytes": 43520,
+      "sha1": "d269126d23be9c606ea15d023a78a287024553cf",
+      "sha256": "b82f2933865671b6cf3181ad557b2e2146effba7ddfc155b257d99f50e217c3c"
+    },
+    {
+      "path": "src/.vercel/output/static/favicon.svg",
+      "uid": "bce6ec7463b242afb0605082e2024c699af15bd2",
+      "mode": 33206,
+      "bytes": 251,
+      "sha1": "bce6ec7463b242afb0605082e2024c699af15bd2",
+      "sha256": "0fb7c4c9d53e016f90c04744fad9024c966649ad807fbc01ef652c1f1a0fa703"
+    },
+    {
+      "path": "src/.vercel/output/static/images/hero-menthol-24-400.avif",
+      "uid": "084d615bb00d340e99b88da4215fd483497d813a",
+      "mode": 33206,
+      "bytes": 12986,
+      "sha1": "084d615bb00d340e99b88da4215fd483497d813a",
+      "sha256": "fd6ad582e8099fe1ecade1df9fe9756b4b957687a763ee17c523265cfadaafe2"
+    },
+    {
+      "path": "src/.vercel/output/static/images/hero-menthol-24-400.webp",
+      "uid": "d0d2a6e68e48ef99e3cedb1b661e25543c129d9b",
+      "mode": 33206,
+      "bytes": 20574,
+      "sha1": "d0d2a6e68e48ef99e3cedb1b661e25543c129d9b",
+      "sha256": "bf8b353f69c563bfa07895447c5968444c5e89f9b4d34f9adfcfc6d8a0d541b0"
+    },
+    {
+      "path": "src/.vercel/output/static/images/hero-menthol-24-640.avif",
+      "uid": "f0bd3e13ea348dee53d5e85953f4e894e4b86db1",
+      "mode": 33206,
+      "bytes": 23726,
+      "sha1": "f0bd3e13ea348dee53d5e85953f4e894e4b86db1",
+      "sha256": "e65dbbe25589d3f811c338e3cc13be2542e351b25e5d6f14f01b9d9683fa9f34"
+    },
+    {
+      "path": "src/.vercel/output/static/images/hero-menthol-24-640.webp",
+      "uid": "b2c343f645d00cbf563dcec478d8109814a5c656",
+      "mode": 33206,
+      "bytes": 40066,
+      "sha1": "b2c343f645d00cbf563dcec478d8109814a5c656",
+      "sha256": "f99acd9c629b0eb08aaa1e7fbd9b882bb074b3e917763b728212001fdcd86496"
+    },
+    {
+      "path": "src/.vercel/output/static/images/hero-menthol-24-800.avif",
+      "uid": "0f10284fe593cf0e25c1ca60442fc9cd2bcfc268",
+      "mode": 33206,
+      "bytes": 29592,
+      "sha1": "0f10284fe593cf0e25c1ca60442fc9cd2bcfc268",
+      "sha256": "1587186c946de10c8da168616cf31b4aa61baeb645bd465811d3e2c47f4a88e3"
+    },
+    {
+      "path": "src/.vercel/output/static/images/hero-menthol-24-800.jpg",
+      "uid": "efbe92bdef7b235fe11cce627e6c517cc31d0a6c",
+      "mode": 33206,
+      "bytes": 81352,
+      "sha1": "efbe92bdef7b235fe11cce627e6c517cc31d0a6c",
+      "sha256": "4f8f7a4eba5dc4ffd8cff02cd8849fd337a2d5fa3f327214bf3d7dd2225bec5a"
+    },
+    {
+      "path": "src/.vercel/output/static/images/hero-menthol-24-800.webp",
+      "uid": "53acd6c305773ee8ba09fdc37c3486d7c75f29bc",
+      "mode": 33206,
+      "bytes": 50790,
+      "sha1": "53acd6c305773ee8ba09fdc37c3486d7c75f29bc",
+      "sha256": "6dcd9785922f193c485703efdfa4f247ab2be15a6be3d1dac6f3dcaddc588f9f"
+    },
+    {
+      "path": "src/.vercel/output/static/images/honey-12-400.avif",
+      "uid": "fea7ec9941a66f91a1d732e0b151e7ae7b73ffcf",
+      "mode": 33206,
+      "bytes": 13820,
+      "sha1": "fea7ec9941a66f91a1d732e0b151e7ae7b73ffcf",
+      "sha256": "5ffe032e6f39ff5356cc1da9c428abaf646edd9f917b217ae947d7ff78c98b36"
+    },
+    {
+      "path": "src/.vercel/output/static/images/honey-12-400.webp",
+      "uid": "0f814670f2080a7d61c33dd3dd333c3cfe4383c4",
+      "mode": 33206,
+      "bytes": 20182,
+      "sha1": "0f814670f2080a7d61c33dd3dd333c3cfe4383c4",
+      "sha256": "a5de0d7725c03eae787813186450134270c63c8f430b46b0ec19f8be70d1aa82"
+    },
+    {
+      "path": "src/.vercel/output/static/images/honey-12-640.avif",
+      "uid": "ff22c71b6b72b9a6f9cbff4ade03c35e6b655ca3",
+      "mode": 33206,
+      "bytes": 28611,
+      "sha1": "ff22c71b6b72b9a6f9cbff4ade03c35e6b655ca3",
+      "sha256": "75752226a9b26fd1d8d6d164bae47577eb6ecd6f1422471e91032c155b60d9f5"
+    },
+    {
+      "path": "src/.vercel/output/static/images/honey-12-640.webp",
+      "uid": "b44f447ec59804f8e864c38bd136cd9cb04e6517",
+      "mode": 33206,
+      "bytes": 41058,
+      "sha1": "b44f447ec59804f8e864c38bd136cd9cb04e6517",
+      "sha256": "a2ec6f69ec0bb7514d7fc4fe9b54674bdcf8d6b610b983c1f13dde012e606c97"
+    },
+    {
+      "path": "src/.vercel/output/static/images/honey-12-800.avif",
+      "uid": "b595001401951752494d78aea337c432f7701566",
+      "mode": 33206,
+      "bytes": 42917,
+      "sha1": "b595001401951752494d78aea337c432f7701566",
+      "sha256": "59ff48292c6d00aa67edccc9d2b746e99450361e8ce3f8a358b4c6ffc549b494"
+    },
+    {
+      "path": "src/.vercel/output/static/images/honey-12-800.jpg",
+      "uid": "46cb7a5470d1ff3c4bf39ab9ffa6cf256dcb0f15",
+      "mode": 33206,
+      "bytes": 94301,
+      "sha1": "46cb7a5470d1ff3c4bf39ab9ffa6cf256dcb0f15",
+      "sha256": "88f0cb51990a83b49af7f48c3e43ddf2b428122e4f915853a3647ab9b9105037"
+    },
+    {
+      "path": "src/.vercel/output/static/images/honey-12-800.webp",
+      "uid": "9b3f9a250fd34fcb741b80707cee67d29ac39883",
+      "mode": 33206,
+      "bytes": 59812,
+      "sha1": "9b3f9a250fd34fcb741b80707cee67d29ac39883",
+      "sha256": "04ad1de3232fb2d87aef8f730b421506f11f3052ec375d86c456c11d0024a824"
+    },
+    {
+      "path": "src/.vercel/output/static/images/honey-24-400.avif",
+      "uid": "382fe97c63ce8c5bf1b65f1cea7f115a4bace268",
+      "mode": 33206,
+      "bytes": 11338,
+      "sha1": "382fe97c63ce8c5bf1b65f1cea7f115a4bace268",
+      "sha256": "fe4c18b25efcefaaba58823d541fcdfe7000fde72a76c975a949802b310bda55"
+    },
+    {
+      "path": "src/.vercel/output/static/images/honey-24-400.webp",
+      "uid": "2e9640152b4ce8c752f262c9635e8c0251665e7a",
+      "mode": 33206,
+      "bytes": 17686,
+      "sha1": "2e9640152b4ce8c752f262c9635e8c0251665e7a",
+      "sha256": "29864cd090dd8855c2b74a05b5a9f06366b7811508e8a35f31b293c64111dd5f"
+    },
+    {
+      "path": "src/.vercel/output/static/images/honey-24-640.avif",
+      "uid": "2a7cd765f65148b1a80242161ef1a66db5eda6db",
+      "mode": 33206,
+      "bytes": 21075,
+      "sha1": "2a7cd765f65148b1a80242161ef1a66db5eda6db",
+      "sha256": "8f3dcb354628b4fe5b8728960538adb2b0ef8d072deba83ff7cce5dc5dc3886a"
+    },
+    {
+      "path": "src/.vercel/output/static/images/honey-24-640.webp",
+      "uid": "7584ed340c544b44b73a438a92608851ece4355e",
+      "mode": 33206,
+      "bytes": 34826,
+      "sha1": "7584ed340c544b44b73a438a92608851ece4355e",
+      "sha256": "e8cd01ccbb3831d2e55d66e167296d4ddf40efdd83547194e276cdd70ee9282f"
+    },
+    {
+      "path": "src/.vercel/output/static/images/honey-24-800.avif",
+      "uid": "7f092f7e8dd15a5da961fef1857478d74b388233",
+      "mode": 33206,
+      "bytes": 30086,
+      "sha1": "7f092f7e8dd15a5da961fef1857478d74b388233",
+      "sha256": "993019988036a75a056940eb18a725a1493f980d63ee3dd5a9e5b1bbd76681cd"
+    },
+    {
+      "path": "src/.vercel/output/static/images/honey-24-800.jpg",
+      "uid": "b9494261572687f96fe7ee345fb4337deaf6c733",
+      "mode": 33206,
+      "bytes": 80931,
+      "sha1": "b9494261572687f96fe7ee345fb4337deaf6c733",
+      "sha256": "f6b4b84ab32d9431271491cd4ee0e081a4d76b21c207eead11438ad90d91f755"
+    },
+    {
+      "path": "src/.vercel/output/static/images/honey-24-800.webp",
+      "uid": "5a192de375681a4fc3e52341ab2ea4e03a5b6893",
+      "mode": 33206,
+      "bytes": 50488,
+      "sha1": "5a192de375681a4fc3e52341ab2ea4e03a5b6893",
+      "sha256": "158715ee42345874cdd04bbcd191e827595d9ebc1f1c9434a92718de25ce1f24"
+    },
+    {
+      "path": "src/.vercel/output/static/images/lemon-12-400.avif",
+      "uid": "0dca59ea58cfde55648e5b37d935b2dde7b8ad0d",
+      "mode": 33206,
+      "bytes": 13102,
+      "sha1": "0dca59ea58cfde55648e5b37d935b2dde7b8ad0d",
+      "sha256": "b9dbe58fa4f458e73d42fba9388e2f4e2d451fd664c233ae9e75b534ac1c7089"
+    },
+    {
+      "path": "src/.vercel/output/static/images/lemon-12-400.webp",
+      "uid": "24a5ffdffe13a70f2d9ec3cb2b22a648661d35a0",
+      "mode": 33206,
+      "bytes": 16648,
+      "sha1": "24a5ffdffe13a70f2d9ec3cb2b22a648661d35a0",
+      "sha256": "8cc6e11a387c4d6004b1039a96217f3ab00f69d9acf4476b4eeeb0391c8a5d4f"
+    },
+    {
+      "path": "src/.vercel/output/static/images/lemon-12-640.avif",
+      "uid": "29c00d7e9b926e8eceac4772abc3e8610eb93cc9",
+      "mode": 33206,
+      "bytes": 24172,
+      "sha1": "29c00d7e9b926e8eceac4772abc3e8610eb93cc9",
+      "sha256": "8e189c9f1b88e968ed891d9ea146f568021c1cb54bcf1c32bb9848bedf38d362"
+    },
+    {
+      "path": "src/.vercel/output/static/images/lemon-12-640.webp",
+      "uid": "465be964b3c1105050f2db4ffc506ba7e7dbeebf",
+      "mode": 33206,
+      "bytes": 32900,
+      "sha1": "465be964b3c1105050f2db4ffc506ba7e7dbeebf",
+      "sha256": "7fe69a02dcc3767103d77e46c18a30f6e9b2dcfc33b30f316e255771706c4186"
+    },
+    {
+      "path": "src/.vercel/output/static/images/lemon-12-800.avif",
+      "uid": "901367c421f50dd6aa9beac574ecf3d1292db2b2",
+      "mode": 33206,
+      "bytes": 31602,
+      "sha1": "901367c421f50dd6aa9beac574ecf3d1292db2b2",
+      "sha256": "7813b8f9fb14b4a0f22efda40308fa1d085b1294fee6b99dc3f237072ce5579d"
+    },
+    {
+      "path": "src/.vercel/output/static/images/lemon-12-800.jpg",
+      "uid": "d452968341a163bcf6ab360f57ace960e26c70ff",
+      "mode": 33206,
+      "bytes": 76279,
+      "sha1": "d452968341a163bcf6ab360f57ace960e26c70ff",
+      "sha256": "e87da1c0982a42ce03ac5385310602d08c390251c5c1c5891e8391fcbe8cc07a"
+    },
+    {
+      "path": "src/.vercel/output/static/images/lemon-12-800.webp",
+      "uid": "77577d11a93732c03fdcb33ec35e8929e5b68f9d",
+      "mode": 33206,
+      "bytes": 45592,
+      "sha1": "77577d11a93732c03fdcb33ec35e8929e5b68f9d",
+      "sha256": "77075b11b965a606ee7a5123cfd9df8392ab68c38ddca9503ca848a3dd63d872"
+    },
+    {
+      "path": "src/.vercel/output/static/images/lemon-24-400.avif",
+      "uid": "db63fe478af4a36eff58e6ec9445163adf20d167",
+      "mode": 33206,
+      "bytes": 13887,
+      "sha1": "db63fe478af4a36eff58e6ec9445163adf20d167",
+      "sha256": "97ece2c9625f5c37b187044be697a10959fe8f4e6f8ed8cc49506ee0a3795ebb"
+    },
+    {
+      "path": "src/.vercel/output/static/images/lemon-24-400.webp",
+      "uid": "c7833bc7d095e40cf10d1f901feed78d268a83c9",
+      "mode": 33206,
+      "bytes": 17004,
+      "sha1": "c7833bc7d095e40cf10d1f901feed78d268a83c9",
+      "sha256": "ea2dc0193cd32e522e7444d0f332faad877de8de268e178e8348d0a8c26a6d9d"
+    },
+    {
+      "path": "src/.vercel/output/static/images/lemon-24-640.avif",
+      "uid": "63a934cce3d286175ae2587cac543dbb6d87bb98",
+      "mode": 33206,
+      "bytes": 26197,
+      "sha1": "63a934cce3d286175ae2587cac543dbb6d87bb98",
+      "sha256": "47d948d9b587b9dcd9537f24c01637a4978475682e0080c7d14823ea9d298925"
+    },
+    {
+      "path": "src/.vercel/output/static/images/lemon-24-640.webp",
+      "uid": "c2f9c1c7825b94d7e72cb995ef6ac1abaafc1e08",
+      "mode": 33206,
+      "bytes": 34778,
+      "sha1": "c2f9c1c7825b94d7e72cb995ef6ac1abaafc1e08",
+      "sha256": "55a9a21a78e0eea1c0307588302ba2799604bb0f85fb01b3b2c2ddde763c49f9"
+    },
+    {
+      "path": "src/.vercel/output/static/images/lemon-24-800.avif",
+      "uid": "03d85683cf8b0fefbecf66d6919dad492de3cc97",
+      "mode": 33206,
+      "bytes": 34321,
+      "sha1": "03d85683cf8b0fefbecf66d6919dad492de3cc97",
+      "sha256": "2034f80e3bf5a5892e4c8f82fc7c26661bbfefe2ef4d75ea87db5ba146946680"
+    },
+    {
+      "path": "src/.vercel/output/static/images/lemon-24-800.jpg",
+      "uid": "b3ee7c0dec1c7ce02a242a0de61bd61076b7fbe6",
+      "mode": 33206,
+      "bytes": 78309,
+      "sha1": "b3ee7c0dec1c7ce02a242a0de61bd61076b7fbe6",
+      "sha256": "e17181ca4cb4f30dbc2ceb5c067aceb55a63e1f111ca0b9d707e4dacd443cb3e"
+    },
+    {
+      "path": "src/.vercel/output/static/images/lemon-24-800.webp",
+      "uid": "f72ae07a08bca97e6c9a0249de14263adec7b941",
+      "mode": 33206,
+      "bytes": 48180,
+      "sha1": "f72ae07a08bca97e6c9a0249de14263adec7b941",
+      "sha256": "f01bf3f392f2ee3ad1ea78140cdb91d576b5a75a4fd818bb0555f1bd89df1cd4"
+    },
+    {
+      "path": "src/.vercel/output/static/images/menthol-12-400.avif",
+      "uid": "a3106ac235f95942f1fe999f004976c20ca7bca3",
+      "mode": 33206,
+      "bytes": 11216,
+      "sha1": "a3106ac235f95942f1fe999f004976c20ca7bca3",
+      "sha256": "cec464e7980ecfcb6caa03f0c8ced1328be8bbb410bc670d9077fbb88a8c6539"
+    },
+    {
+      "path": "src/.vercel/output/static/images/menthol-12-400.webp",
+      "uid": "430bb92c656f5c6fa08740a2bdfeb1e64363e50d",
+      "mode": 33206,
+      "bytes": 17812,
+      "sha1": "430bb92c656f5c6fa08740a2bdfeb1e64363e50d",
+      "sha256": "97c3f85cd1060728d3a2d61a7bdd5bc1713abf86f17fae3c97ff10ac5f4fefc8"
+    },
+    {
+      "path": "src/.vercel/output/static/images/menthol-12-640.avif",
+      "uid": "6cab3d456c57bb1fa442a8e334639b8eb3d5a2db",
+      "mode": 33206,
+      "bytes": 20054,
+      "sha1": "6cab3d456c57bb1fa442a8e334639b8eb3d5a2db",
+      "sha256": "4e09cda20ee26e133dc2eae26301b97847525a91063628d2de4c205052ae5c90"
+    },
+    {
+      "path": "src/.vercel/output/static/images/menthol-12-640.webp",
+      "uid": "e8ea8468b74e0d7783bd2053b5775268c2733a41",
+      "mode": 33206,
+      "bytes": 35276,
+      "sha1": "e8ea8468b74e0d7783bd2053b5775268c2733a41",
+      "sha256": "6c0f68eab47b6bac5fc80e0fdbf15a7d4c1fe4a95aabda78b4e37b8d6feeb2d9"
+    },
+    {
+      "path": "src/.vercel/output/static/images/menthol-12-800.avif",
+      "uid": "bd8959f182fd6fd3324923caba0d33956bcfca49",
+      "mode": 33206,
+      "bytes": 25496,
+      "sha1": "bd8959f182fd6fd3324923caba0d33956bcfca49",
+      "sha256": "cee5b84042994befd4b7468152e2b2826e37ec4972cbe7e79ae2df00f051e1f5"
+    },
+    {
+      "path": "src/.vercel/output/static/images/menthol-12-800.jpg",
+      "uid": "7c47606296386f0ef27dc22ba9cdf12994bf88e7",
+      "mode": 33206,
+      "bytes": 80901,
+      "sha1": "7c47606296386f0ef27dc22ba9cdf12994bf88e7",
+      "sha256": "40b7cfb2e283a264d0ef8c6314a305ee89e03856e3d05dc808d04b8107237686"
+    },
+    {
+      "path": "src/.vercel/output/static/images/menthol-12-800.webp",
+      "uid": "683f702c19542e187156bce85b34f21fc77e020c",
+      "mode": 33206,
+      "bytes": 47472,
+      "sha1": "683f702c19542e187156bce85b34f21fc77e020c",
+      "sha256": "0461a90d8dcd5b6775b19662bc9f020a48a7ca37ccb40390f4a6edb8765397d5"
+    },
+    {
+      "path": "src/.vercel/output/static/images/menthol-24-400.avif",
+      "uid": "c4af5094d2283cf30386ee0d206314663a270f40",
+      "mode": 33206,
+      "bytes": 12617,
+      "sha1": "c4af5094d2283cf30386ee0d206314663a270f40",
+      "sha256": "c42e64184ebe99b9bddebf701299a21d3daf4b3beb054a6990ce375d261b0b72"
+    },
+    {
+      "path": "src/.vercel/output/static/images/menthol-24-400.webp",
+      "uid": "87ee2ffcdf293b5659c1c6fe2d83c53a73e496b4",
+      "mode": 33206,
+      "bytes": 17758,
+      "sha1": "87ee2ffcdf293b5659c1c6fe2d83c53a73e496b4",
+      "sha256": "123a7201f4498a8517bb98990257ffc5f952521abb26318d2810b9e572066df8"
+    },
+    {
+      "path": "src/.vercel/output/static/images/menthol-24-640.avif",
+      "uid": "a61f5fc1e5d4cfbea49221e27892b133cfd07d8b",
+      "mode": 33206,
+      "bytes": 23400,
+      "sha1": "a61f5fc1e5d4cfbea49221e27892b133cfd07d8b",
+      "sha256": "696852834fc6296f8cea6fd2a9318ec7aa5adde579933f0ba5981ebcd0ebcbad"
+    },
+    {
+      "path": "src/.vercel/output/static/images/menthol-24-640.webp",
+      "uid": "359067fbdfdd98e62d63015ae2d70fbcf897aa53",
+      "mode": 33206,
+      "bytes": 34498,
+      "sha1": "359067fbdfdd98e62d63015ae2d70fbcf897aa53",
+      "sha256": "602c3e769e954ac5e20c5b4185378203a52d697b050bc59add8a8556177589d7"
+    },
+    {
+      "path": "src/.vercel/output/static/images/menthol-24-800.avif",
+      "uid": "ac6e000f9fd00ddf064bf5b0937d8339751daa0f",
+      "mode": 33206,
+      "bytes": 30591,
+      "sha1": "ac6e000f9fd00ddf064bf5b0937d8339751daa0f",
+      "sha256": "36eb0c87038ad405b21c71771e9ba97d6c2a9df50a79b5ff1c365410ec275f49"
+    },
+    {
+      "path": "src/.vercel/output/static/images/menthol-24-800.jpg",
+      "uid": "a19e2bf6e3c708fc38df66397f2f2747651546ae",
+      "mode": 33206,
+      "bytes": 74351,
+      "sha1": "a19e2bf6e3c708fc38df66397f2f2747651546ae",
+      "sha256": "d62e8afd94288e9517f83443a0aea7c60da8286a4b5bbb53e2374686e6123dd9"
+    },
+    {
+      "path": "src/.vercel/output/static/images/menthol-24-800.webp",
+      "uid": "fa1f1e188627cf57f639069c4f6a94acd6d7a0b7",
+      "mode": 33206,
+      "bytes": 46986,
+      "sha1": "fa1f1e188627cf57f639069c4f6a94acd6d7a0b7",
+      "sha256": "94730129fbb99205c1e5f3565580b31045172192f59c29d6ad4d3e94ee0781ea"
+    },
+    {
+      "path": "src/.vercel/output/static/images/orange-24-400.avif",
+      "uid": "d9b3a95d94d1bc6c89d2619c0c36dc0783cc870e",
+      "mode": 33206,
+      "bytes": 14185,
+      "sha1": "d9b3a95d94d1bc6c89d2619c0c36dc0783cc870e",
+      "sha256": "88d502c7f77a33c07aa6940453d105498fe1c2b6556c467720e1e031cd40c9a7"
+    },
+    {
+      "path": "src/.vercel/output/static/images/orange-24-400.webp",
+      "uid": "09b63c66fd8c566e4f5857aa2a94b148bd037de9",
+      "mode": 33206,
+      "bytes": 18268,
+      "sha1": "09b63c66fd8c566e4f5857aa2a94b148bd037de9",
+      "sha256": "b114cb93a6cf7e15c87315ca020737eae39abecb1f5b0614cef931fbcdc83f93"
+    },
+    {
+      "path": "src/.vercel/output/static/images/orange-24-640.avif",
+      "uid": "25cd4ee15fb54c21485d2a5a6fecacd1323cb1e6",
+      "mode": 33206,
+      "bytes": 27147,
+      "sha1": "25cd4ee15fb54c21485d2a5a6fecacd1323cb1e6",
+      "sha256": "d771aa04eae05e0f88fbde98370e08933b9d150da09d261e6fe9a0f8fa412773"
+    },
+    {
+      "path": "src/.vercel/output/static/images/orange-24-640.webp",
+      "uid": "40f1bf2b8408fe35556fa6a8a05432299394da46",
+      "mode": 33206,
+      "bytes": 36436,
+      "sha1": "40f1bf2b8408fe35556fa6a8a05432299394da46",
+      "sha256": "cd5aa0976d7db1e616d04e3cdfd104306b89882fe8670fa0448ad0cce94dc69d"
+    },
+    {
+      "path": "src/.vercel/output/static/images/orange-24-800.avif",
+      "uid": "a95aad34953889236be0345a0c8167ac63773032",
+      "mode": 33206,
+      "bytes": 36188,
+      "sha1": "a95aad34953889236be0345a0c8167ac63773032",
+      "sha256": "f445e94f885a440dc3dffd67b3524b732d1ba2d1bb6830d6623920473cad3036"
+    },
+    {
+      "path": "src/.vercel/output/static/images/orange-24-800.jpg",
+      "uid": "06f3aa4ee1758f2117e624fa0699c9611212478c",
+      "mode": 33206,
+      "bytes": 83743,
+      "sha1": "06f3aa4ee1758f2117e624fa0699c9611212478c",
+      "sha256": "2502de41f437032c5b60e1f3ba0fb68cb1572e1705e1e079af271e8efeed8a0a"
+    },
+    {
+      "path": "src/.vercel/output/static/images/orange-24-800.webp",
+      "uid": "f1b6ce7b3ecfea35cd9b3a919b55c49f7569ffa0",
+      "mode": 33206,
+      "bytes": 51382,
+      "sha1": "f1b6ce7b3ecfea35cd9b3a919b55c49f7569ffa0",
+      "sha256": "cadb9b00bae29c8a9559d07f227cbb3d015e7b6d85df51df3f004b9af6b62f97"
+    },
+    {
+      "path": "src/.vercel/output/static/images/share.png",
+      "uid": "8ad7bc164623b28883f10af47c1588745a76ba6f",
+      "mode": 33206,
+      "bytes": 261171,
+      "sha1": "8ad7bc164623b28883f10af47c1588745a76ba6f",
+      "sha256": "25e7fcf33f362997913d3d59aee90ae716d4908429095f5a1eb437cc93084103"
+    },
+    {
+      "path": "src/.vercel/output/static/images/wordmark-straight.png",
+      "uid": "692894c471a2179a182252615b20fd66ec1f7071",
+      "mode": 33206,
+      "bytes": 138618,
+      "sha1": "692894c471a2179a182252615b20fd66ec1f7071",
+      "sha256": "3762b9b771bb284abe783c4d6f1b68f50fe288f037bc7c9a2e8f35abe146eaa7"
+    },
+    {
+      "path": "src/.vercel/output/static/images/wordmark.png",
+      "uid": "a42fdb4d9132a7158ef641d695e06179799b610d",
+      "mode": 33206,
+      "bytes": 56375,
+      "sha1": "a42fdb4d9132a7158ef641d695e06179799b610d",
+      "sha256": "fa645100c17fb4e492d212d61dc449ae13474a35f27c1a881bebf3d9da1accde"
+    },
+    {
+      "path": "src/.vercel/output/static/index.html",
+      "uid": "effc1992b8fdec973fc17138f70bd86b2966bdd2",
+      "mode": 33206,
+      "bytes": 67791,
+      "sha1": "effc1992b8fdec973fc17138f70bd86b2966bdd2",
+      "sha256": "61282aae03beba592c065972f1e6f30dbaa15076c172eb34e293a3d154c13ca6"
+    },
+    {
+      "path": "src/.vercel/output/static/instruction/index.html",
+      "uid": "c5577f50490c931402393ab10d5a21fe823cf0c0",
+      "mode": 33206,
+      "bytes": 29250,
+      "sha1": "c5577f50490c931402393ab10d5a21fe823cf0c0",
+      "sha256": "153c95c020c1288868cf8171cc673f83b5add20239e9523061b060b166b89c42"
+    },
+    {
+      "path": "src/.vercel/output/static/privacy/index.html",
+      "uid": "115ee9db28f353bcdb587ff7c5b41b37d8bd389c",
+      "mode": 33206,
+      "bytes": 11536,
+      "sha1": "115ee9db28f353bcdb587ff7c5b41b37d8bd389c",
+      "sha256": "c8aac3d9b7a80b309fc2962a41795fb5141057db80b23fb44ea0f0d03d2f627e"
+    },
+    {
+      "path": "src/.vercel/output/static/robots.txt",
+      "uid": "63657cbb7d7086c56b0cd4e5c6999bb683664868",
+      "mode": 33206,
+      "bytes": 26,
+      "sha1": "63657cbb7d7086c56b0cd4e5c6999bb683664868",
+      "sha256": "331ea9090db0c9f6f597bd9840fd5b171830f6e0b3ba1cb24dfa91f0c95aedc1"
+    },
+    {
+      "path": "src/.vercel/output/static/sitemap.xml",
+      "uid": "d1b0a2f17d2dcc881bc4967a3e5fcec806721e86",
+      "mode": 33206,
+      "bytes": 107,
+      "sha1": "d1b0a2f17d2dcc881bc4967a3e5fcec806721e86",
+      "sha256": "68ab08991efaca902bcb8a6518106d8b29964c5651f39abbb7eb7c9713ca2770"
+    },
+    {
+      "path": "src/.vercel/output/static/terms/index.html",
+      "uid": "50dff6fb1f1d676813e99076c6b76a0313c900e4",
+      "mode": 33206,
+      "bytes": 10830,
+      "sha1": "50dff6fb1f1d676813e99076c6b76a0313c900e4",
+      "sha256": "fd10e00df08debcc270577abb2481c2415aefe18e80ca7353a6447c5c2a977be"
+    }
+  ]
+}

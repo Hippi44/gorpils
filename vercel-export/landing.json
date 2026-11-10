@@ -1,0 +1,11 @@
+{
+  "projectId": "prj_BAhDm3M5X67P0Ke0ocUWwhj263fs",
+  "projectName": "gorpils-landing-20261110",
+  "teamId": "team_ydXh1UPW3asUNtmLPNFNBelt",
+  "deploymentId": "dpl_DHDttoGf3gFzx2wq9fCLJ7TVq9CN",
+  "landingUrl": "https://gorpils-landing-20261110.vercel.app/",
+  "target": "production",
+  "readyState": "READY",
+  "deploymentProtection": "public",
+  "sourceDeploymentId": "dpl_68LGJLcqHVw4LAnKUwyR9QVMDwne"
+}

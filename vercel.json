@@ -1,0 +1,57 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "version": 2,
+  "framework": null,
+  "buildCommand": "",
+  "installCommand": "",
+  "outputDirectory": "site",
+  "routes": [
+    {
+      "src": "/(.*)",
+      "headers": {
+        "X-Robots-Tag": "noindex, nofollow, noarchive",
+        "X-Content-Type-Options": "nosniff",
+        "Referrer-Policy": "no-referrer",
+        "Content-Security-Policy": "default-src 'self'; script-src 'self' 'sha256-x+W7VZTGHyzf+IlfK2LnERR5A5t/7vTcxTcKN5HsK/A=' 'sha256-/p6zDGJIVaUIXngV5AyiyEq1m2Sk0KRlMxh0jlJPgNE=' 'sha256-cfGw5hR8pMRB7IEZkQL19H5bgX0iDWcF4tisSEBluPw=' 'sha256-9CgouiBMA4fWOYebdo4ZOQn4wIhZ2GWnYflysoL6Bb0=' 'sha256-RxaqnRsNesOxrPP7JELKnx376Rz9j6QzEgx+yIy+iW8=' 'sha256-JkykYIkXxEDFYI7B8BpASqQUZiPLXMLsrfy81B5MePE=' 'sha256-/GePsJTwDAS1sn4lQLNbYNz3nlirBIxiLh3sciciZE4=' 'sha256-qaPakWCumtwmXLOfSLv/R4cQSXW8jopp5ROo77DlWv8='; style-src 'self'; img-src 'self' data:; font-src 'self'; connect-src 'self'; object-src 'none'; base-uri 'self'; frame-ancestors 'none'; form-action 'none'"
+      },
+      "continue": true
+    },
+    {
+      "src": "/_astro/(.*)",
+      "headers": {
+        "Cache-Control": "public, max-age=31536000, immutable"
+      },
+      "continue": true
+    },
+    {
+      "src": "/documents/(.*)",
+      "headers": {
+        "Cache-Control": "no-cache"
+      },
+      "continue": true
+    },
+    {
+      "src": "/(instruction|terms|privacy)",
+      "headers": {
+        "Location": "/$1/"
+      },
+      "status": 308
+    },
+    {
+      "src": "/",
+      "dest": "/index.html"
+    },
+    {
+      "src": "/(instruction|terms|privacy)/",
+      "dest": "/$1/index.html"
+    },
+    {
+      "handle": "filesystem"
+    },
+    {
+      "src": "/.*",
+      "dest": "/404.html",
+      "status": 404
+    }
+  ]
+}
