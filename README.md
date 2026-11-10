@@ -1,5 +1,7 @@
 # Gorpils — экспорт опубликованного сайта
 
+GitHub Pages: <https://hippi44.github.io/gorpils/>.
+
 Публичный лендинг: <https://gorpils-landing-20261110.vercel.app/>.
 Он размещён в отдельном production-проекте Vercel `gorpils-landing-20261110`
 и не требует входа. Идентификаторы нового проекта — в
@@ -57,6 +59,34 @@ python -m http.server 8000 --directory site
 Поскольку скопированы настройки preview-деплоя, сайт сохраняет
 `X-Robots-Tag: noindex, nofollow, noarchive`. Для индексируемого production-сайта
 эту настройку нужно пересмотреть отдельно.
+
+## GitHub Pages
+
+Второй независимый адрес: <https://hippi44.github.io/gorpils/>.
+Workflow `.github/workflows/pages.yml` проверяет и публикует сайт при изменении
+файлов сайта, скрипта сборки или тестов в ветке `main`. Его также можно запустить
+вручную через GitHub → Actions → Deploy GitHub Pages → Run workflow.
+
+`scripts/build_github_pages.py` создаёт отдельную папку `_pages/`: добавляет
+префикс `/gorpils/` к локальным ссылкам, изображениям, srcset и CSS-шрифтам,
+переносит canonical/Open Graph/JSON-LD/sitemap на домен GitHub Pages и проверяет
+наличие локальных ресурсов. Файлы `site/` и настройки Vercel не изменяются.
+Изображения, шрифты и документ копируются без изменения содержимого.
+
+Локальная проверка и сборка, без установки зависимостей:
+
+```powershell
+python -m unittest discover -s tests -v
+python scripts/build_github_pages.py
+```
+
+Папка `_pages/` — генерируемый артефакт, она не коммитится.
+GitHub Pages использует страницы `instruction/index.html`, `privacy/index.html`,
+`terms/index.html` и собственную обработку `404.html`. Конфигурация `vercel.json`
+там не применяется: пользовательские HTTP-заголовки и правила кеширования
+Vercel GitHub Pages не переносит. Исходные HTML-настройки `noindex` сохранены.
+Для публикации не нужен токен Vercel: workflow использует стандартный
+`GITHUB_TOKEN` и OIDC с ограниченными разрешениями.
 
 ## Доступ к API
 

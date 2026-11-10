@@ -9,6 +9,7 @@
 # Local dependencies, caches and editor state.
 node_modules/
 .astro/
+_pages/
 __pycache__/
 *.pyc
 .DS_Store
